@@ -62,6 +62,7 @@ Projects and tools built on SpecScore:
 - [**rehearse**](https://github.com/specscore/rehearse) — Markdown-native test framework that turns SpecScore specs into executable scenarios
 - [**spec-driven-todo-app**](https://github.com/specscore/spec-driven-todo-app) — demo todo app specified end-to-end with SpecScore
 - [**inGitDB**](https://github.com/ingitdb) — open-source Git-backed versioned database, specified with SpecScore
+- [**dal-go/dalgo**](https://github.com/dal-go/dalgo) — *(planned)* Go data access layer, SpecScore specification in progress
 
 Using SpecScore in your project? Open a PR.
 
