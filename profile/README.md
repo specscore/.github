@@ -35,7 +35,6 @@ specscore feature show <slug>    # inspect a feature
 The fastest way to write strongly-formatted, lintable SpecScore specifications with an AI agent. An opinionated spec-driven-development workflow: `/ideate` → `/specify` → `/plan` → `/implement`.
 
 - 🎛 [**specstudio-skills**](https://github.com/specscore/specstudio-skills) — Claude Code plugin (MIT, free forever)
-- 🛠 [**ai-plugin-specscore**](https://github.com/specscore/ai-plugin-specscore) — thin CLI-wrapping plugin for community workflows
 
 ```text
 /plugin marketplace add specscore/ai-marketplace
