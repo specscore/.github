@@ -57,6 +57,7 @@ The first-party web UI for SpecScore: browse spec graphs from any GitHub repo, v
 
 Projects and tools built on SpecScore:
 
+- [**DataTug**](https://datatug.app) — uses SpecScore contracts to define product requirements, acceptance criteria, and plans; [the tools behind DataTug](https://datatug.app/en/under-the-hood/tools-we-built/#specify).
 - [**specscore-cli**](https://github.com/specscore/specscore-cli) — reference CLI: lint, query, and scaffold SpecScore specifications
 - [**rehearse**](https://github.com/specscore/rehearse) — Markdown-native test framework that turns SpecScore specs into executable scenarios
 - [**spec-driven-todo-app**](https://github.com/specscore/spec-driven-todo-app) — demo todo app specified end-to-end with SpecScore
